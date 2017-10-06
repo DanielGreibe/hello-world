@@ -1,2 +1,2 @@
 # hello-world
-Guide on how to use Git, project is called hello world
+I am studying Softwaretechnology at the Technical University of Denmark.
